@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="maps_starting_lat_lng">
+        <item>-789275</item>
+        <item>113921327</item>
+    </integer-array>
+    <integer-array name="maps_starting_zoom">
+        <item>3</item>
+    </integer-array>
+    <string-array name="fingerprint_acquired_vendor">
+        <item></item>
+        <item>tunggu jari ke bawah</item>
+        <item>jari ke bawah</item>
+        <item>jari ke atas</item>
+        <item>batas waktu jari ke bawah</item>
+        <item>harap sesuaikan jari Anda</item>
+        <item>harap letakkan jari yang belum didaftarkan</item>
+    </string-array>
+</resources>

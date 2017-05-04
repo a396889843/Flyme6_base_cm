@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="maps_starting_lat_lng">
+        <item>15870032</item>
+        <item>100992541</item>
+    </integer-array>
+    <integer-array name="maps_starting_zoom">
+        <item>4</item>
+    </integer-array>
+    <string-array name="fingerprint_acquired_vendor">
+        <item></item>
+        <item>รอการวางนิ้ว</item>
+        <item>วางนิ้ว</item>
+        <item>ยกนิ้วขึ้น</item>
+        <item>หมดเวลาวางนิ้ว</item>
+        <item>โปรดปรับนิ้วของคุณ</item>
+        <item>โปรดวางนิ้วที่ยังไม่ได้ลงทะเบียน</item>
+    </string-array>
+</resources>

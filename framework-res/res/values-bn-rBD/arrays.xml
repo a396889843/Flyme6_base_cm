@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="emailAddressTypes">
+        <item>হোম</item>
+        <item>কর্মক্ষেত্র</item>
+        <item>অন্যান্য</item>
+        <item>কাস্টম</item>
+    </string-array>
+    <string-array name="imProtocols">
+        <item>AIM</item>
+        <item>Windows Live</item>
+        <item>Yahoo</item>
+        <item>Skype</item>
+        <item>QQ</item>
+        <item>Google Talk</item>
+        <item>ICQ</item>
+        <item>Jabber</item>
+    </string-array>
+    <string-array name="organizationTypes">
+        <item>কর্মক্ষেত্র</item>
+        <item>অন্যান্য</item>
+        <item>কাস্টম</item>
+    </string-array>
+    <string-array name="phoneTypes">
+        <item>হোম</item>
+        <item>মোবাইল</item>
+        <item>কর্মক্ষেত্র</item>
+        <item>কর্মক্ষেত্রের ফ্যাক্স</item>
+        <item>বাড়ির ফ্যাক্স</item>
+        <item>পেজার</item>
+        <item>অন্যান্য</item>
+        <item>কাস্টম</item>
+    </string-array>
+    <string-array name="postalAddressTypes">
+        <item>হোম</item>
+        <item>কর্মক্ষেত্র</item>
+        <item>অন্যান্য</item>
+        <item>কাস্টম</item>
+    </string-array>
+    <array name="wfcOperatorErrorAlertMessages" />
+    <array name="wfcOperatorErrorNotificationMessages" />
+    <string-array name="fingerprint_acquired_vendor">
+        <item></item>
+        <item>আঙ্গুল নিচে রেখে অপেক্ষা করুন</item>
+        <item>finger down</item>
+        <item>finger up</item>
+        <item>finger down টাইমআউট</item>
+        <item>অনুগ্রহ করে আপনার আঙ্গুল সমন্বয় করুন</item>
+        <item>নিবন্ধিত নয় আঙ্গুলটি রাখুন</item>
+    </string-array>
+    <array name="fingerprint_error_vendor" />
+    <string-array name="imAddressTypes">
+        <item>হোম</item>
+        <item>কর্মক্ষেত্র</item>
+        <item>অন্যান্য</item>
+        <item>কাস্টম</item>
+    </string-array>
+</resources>

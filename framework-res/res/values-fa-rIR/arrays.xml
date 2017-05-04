@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="maps_starting_lat_lng">
+        <item>32427908</item>
+        <item>53688046</item>
+    </integer-array>
+    <integer-array name="maps_starting_zoom">
+        <item>4</item>
+    </integer-array>
+    <string-array name="fingerprint_acquired_vendor">
+        <item></item>
+        <item>انگشت منتظر باشد</item>
+        <item>انگشت به پایین</item>
+        <item>انگشت به بالا</item>
+        <item>وقفه پايين كشيدن انگشت</item>
+        <item>لطفا انگشت خود را تنظیم کنید</item>
+        <item>لطفا انگشت ثبت نام نشده را بگذارید</item>
+    </string-array>
+</resources>

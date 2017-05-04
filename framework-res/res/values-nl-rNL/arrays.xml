@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="maps_starting_lat_lng">
+        <item>51589256</item>
+        <item>4774396</item>
+    </integer-array>
+    <integer-array name="maps_starting_zoom">
+        <item>4</item>
+    </integer-array>
+    <string-array name="fingerprint_acquired_vendor">
+        <item></item>
+        <item>wait finger down</item>
+        <item>finger down</item>
+        <item>finger up</item>
+        <item>finger down timeout</item>
+        <item>please adjust your finger</item>
+        <item>please put the finger not enrolled</item>
+    </string-array>
+</resources>

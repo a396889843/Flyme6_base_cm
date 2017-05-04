@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="emailAddressTypes">
+        <item>ပင်မစာမျက်နှာ</item>
+        <item>အလုပ်အကိုင်</item>
+        <item>တခြား</item>
+        <item>မိမိစိတ်ကြိုက်</item>
+    </string-array>
+    <string-array name="imProtocols">
+        <item>AIM</item>
+        <item>Windows Live</item>
+        <item>ရာဟူး</item>
+        <item>စကိုက်ပ်</item>
+        <item>QQ</item>
+        <item>ဂူဂဲလ်တော့ခ်</item>
+        <item>ICQ</item>
+        <item>Jabber</item>
+    </string-array>
+    <string-array name="organizationTypes">
+        <item>အလုပ်အကိုင်</item>
+        <item>တခြား</item>
+        <item>မိမိစိတ်ကြိုက်</item>
+    </string-array>
+    <string-array name="phoneTypes">
+        <item>ပင်မစာမျက်နှာ</item>
+        <item>မိုဘိုင်း</item>
+        <item>အလုပ်အကိုင်</item>
+        <item>အလုပ်ဖက်စ်</item>
+        <item>အိမ်ဖက်စ်</item>
+        <item>ပေဂျာ</item>
+        <item>တခြား</item>
+        <item>မိမိစိတ်ကြိုက်</item>
+    </string-array>
+    <string-array name="postalAddressTypes">
+        <item>ပင်မစာမျက်နှာ</item>
+        <item>အလုပ်အကိုင်</item>
+        <item>တခြား</item>
+        <item>မိမိစိတ်ကြိုက်</item>
+    </string-array>
+    <array name="wfcOperatorErrorAlertMessages" />
+    <array name="wfcOperatorErrorNotificationMessages" />
+    <string-array name="fingerprint_acquired_vendor">
+        <item></item>
+        <item>လက္ေခ်ာင္းေနရာခ်မႈကို ေစာင့္ပါ</item>
+        <item>လက္ေခ်ာင္းေနရာခ်မႈ</item>
+        <item>လက္ေခ်ာင္းကို မတင္ပါ</item>
+        <item>လက္ေခ်ာင္းေနရာခ်မႈ အခ်ိန္ကုန္ပါၿပီ</item>
+        <item>ေက်းဇူးျပဳ၍ သင္၏လက္ေခ်ာင္းကို ခ်ိန္ညႇိပါ</item>
+        <item>ေက်းဇူးျပဳ၍ လက္ေခ်ာင္းကိုေနရာခ်ပါ ၎ကိုစာရင္းမသြင္းထားပါ</item>
+    </string-array>
+    <array name="fingerprint_error_vendor" />
+    <string-array name="imAddressTypes">
+        <item>ပင်မစာမျက်နှာ</item>
+        <item>အလုပ်အကိုင်</item>
+        <item>တခြား</item>
+        <item>မိမိစိတ်ကြိုက်</item>
+    </string-array>
+</resources>

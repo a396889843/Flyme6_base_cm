@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="maps_starting_lat_lng">
+        <item>20593684</item>
+        <item>78962880</item>
+    </integer-array>
+    <integer-array name="maps_starting_zoom">
+        <item>3</item>
+    </integer-array>
+    <string-array name="fingerprint_acquired_vendor">
+        <item></item>
+        <item>फ़िंगर डाउन की प्रतीक्षा करें</item>
+        <item>फ़िंगर डाउन</item>
+        <item>फ़िंगर अप</item>
+        <item>फ़िंगर डाउन समयबाह्य</item>
+        <item>कृपया अपनी अंगुली एडजस्ट करें</item>
+        <item>कृपया दर्ज न की गई अंगुली रखें</item>
+    </string-array>
+</resources>
